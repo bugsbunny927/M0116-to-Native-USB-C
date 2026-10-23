@@ -56,9 +56,4 @@ shift.deinit()
 
 ## Usage
 
-* **Daily use:** Plug in and type immediately. No drive letters or File Explorer pop-ups.
 * **Firmware updates:** Hold **Shift** while plugging into USB to expose the `CIRCUITPY` filesystem.
-
-## License
-
-MIT
